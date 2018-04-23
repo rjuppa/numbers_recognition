@@ -2,9 +2,9 @@
 Building a small neural network to recognise hand written numbers using TensorFlow.
 
 
-First, I want to thank the authors of this article that was inspiration for this project.
+First, I want to thank the authors of this article that was the inspiration for this project.
 <a href="http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/" target="_blank">cv-tricks.com/tensorflow-tutorial</a>
-Dataset with handwritten numbers were used from here:
+A dataset with handwritten numbers was used from here:
 <a href="https://github.com/kensanata/numbers" target="_blank">https://github.com/kensanata/numbers</a>
 
 ### Installation
@@ -46,7 +46,7 @@ python3 main.py
 
 All training data are stored in a folder `./data/{dataset_name}/{classes}`
 When a training process get started it stores its model in folder `./model/`
-Once the model is build than it is used for further prediction. The images
+Once the model is built than it is used for further prediction. The images
 to predict are different from training images. They are stored in
 a subfolder `./data/{dataset_name}/predict/` The first letter of a filename
 is actually `class name` used to check results. Results are printed on a screen
@@ -83,8 +83,4 @@ Correct prediction of 15 from 20 images. (0025_RO4F)
 <a href="https://rjuppa.github.io/numbers_recognition/report_0001_CH4M.html" title="report_0001_CH4M.html">report_0001_CH4M.html</a>
 <a href="https://rjuppa.github.io/numbers_recognition/report_0025_RO4F.html" title="report_0025_RO4F.html">report_0025_RO4F.html</a>
 
-
-
-
-<a href="http://htmlpreview.github.com/?https://github.com/rjuppa/numbers_recognition/blob/master/report_0001_CH4M.html" title="report_0001_CH4M.html">xxxreport_0001_CH4M.html</a>
 
