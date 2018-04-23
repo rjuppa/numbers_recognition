@@ -25,7 +25,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 3.4.1
 ```
 
-If it works then install https://www.tensorflow.org/install/
+If it works then install [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
 
 Finally clone the project:
 ```
