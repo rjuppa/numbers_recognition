@@ -80,6 +80,6 @@ ic.print_html_report()
 I reached positive results.  
 Correct prediction of 17 from 20 images. (0001_CH4M)  
 Correct prediction of 15 from 20 images. (0025_RO4F)  
-![Alt text](visualization.png?raw=true "Trump rules them all!")
+![report_0001_CH4M.html](https://rjuppa.github.io/numbers_recognition/report_0001_CH4M.html "report_0001_CH4M.html")
 
 http://htmlpreview.github.com/?https://github.com/rjuppa/numbers_recognition/blob/master/report_0001_CH4M.html
