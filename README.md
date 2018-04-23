@@ -3,15 +3,15 @@ Building a small neural network to recognise hand written numbers using TensorFl
 
 
 First, I want to thank the authors of this article that was inspiration for this project.
-http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+[cv-tricks.com/tensorflow-tutorial](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 
 Dataset with handwritten numbers were used from here:
-https://github.com/kensanata/numbers
+[https://github.com/kensanata/numbers](https://github.com/kensanata/numbers)
 
 ### Installation
     - It uses Python3 (I recommend to use VirtualEnv)
-    - https://opencv.org/ for image manipulation
-    - https://www.tensorflow.org
+    - [https://opencv.org/](https://opencv.org/) for image manipulation
+    - [https://www.tensorflow.org](https://www.tensorflow.org)
 
 
 Make sure that OpenCV is accessible in your Python3 console.
@@ -25,7 +25,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 3.4.1
 ```
 
-If it works then install [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
+If it works then install [www.tensorflow.org/install](https://www.tensorflow.org/install/)
 
 Finally clone the project:
 ```
