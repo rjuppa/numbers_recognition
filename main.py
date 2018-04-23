@@ -9,9 +9,9 @@ ic.set_model_name(model_name)
 ic.set_train_data_path('data/{}'.format(model_name))
 ic.train(2000)
 
-# use the model to classify images from different folder
+# use the model to classify images from a different folder
 ic.predict('data/{}/predict/'.format(model_name))
 ic.print_results()
 
-# create html page with graphic report
+# create an html page with a graphic report
 ic.print_html_report()
