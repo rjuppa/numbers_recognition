@@ -7,10 +7,10 @@ First, I want to thank the authors of this article that was the inspiration for 
 A dataset with handwritten numbers was used from here:
 <a href="https://github.com/kensanata/numbers" target="_blank">https://github.com/kensanata/numbers</a>
 
-### Installation
-    - It uses Python3 (I recommend to use VirtualEnv)
-    - [https://opencv.org/](https://opencv.org/) for image manipulation
-    - [https://www.tensorflow.org](https://www.tensorflow.org)
+### Installation  
+- It uses Python3 (I recommend to use VirtualEnv)
+- [https://opencv.org/](https://opencv.org/) for image manipulation
+- [https://www.tensorflow.org](https://www.tensorflow.org)
 
 
 Make sure that OpenCV is accessible in your Python3 console.
